@@ -1,0 +1,6 @@
+## Arquivos de Build
+bin/
+obj/
+.vs/
+*.mp4
+*.exe
