@@ -21,7 +21,8 @@ Para executar este projeto, você precisará ter:
 
 ```csharp
 var videoPath = @"Caminho\Para\Seu\Vídeo.mp4";
+```
 
-	Para execução local, compilar a solução e copiar os arquivos ffmpeg.exe, ffprobe.exe e ffplay.exe para o diretório FIAPProcessaVideo.
+  *Para execução local, compilar a solução e copiar os arquivos ffmpeg.exe, ffprobe.exe e ffplay.exe para o diretório FIAPProcessaVideo.*
 
 *Códigobase fornecido pela [Instituição FIAP](https://github.com/FIAP) para realização do hackathon da turma 7SOAT de 2024/2025.*
